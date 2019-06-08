@@ -1,0 +1,104 @@
+body{
+  background-color:white;
+  overflow: hidden;
+}
+.cover{
+  background-image: url(../img/cover.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 180px;
+  border-bottom: solid teal 5px;
+}
+.row{
+  position: relative;
+}
+.row .col.s12 {
+  padding: 0 !important;
+}
+.row .col.s12 .head {
+height: 300px;
+width: 100%;
+}
+.head
+{
+  position: relative;
+}
+.level_container {
+  width: 100%;
+  background-color: rgb(158, 154, 154);
+}
+.backkk{
+  position: relative;
+  width: 100%;
+  height:250px ;
+}
+.profile{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.level {
+  text-align: right;
+  padding: 10px;
+  color: white;
+}
+.exp {width: 90%; background-color:teal;}
+nav {
+  height: 100px;
+}
+
+.checked {
+  color: orange;
+}
+.language {
+  padding: 0;
+}
+.level_container_courses1 {
+  width: 100%;
+  background-color: rgb(158, 154, 154);
+  height: 20px;
+}
+.level_courses1 {
+  text-align: right;
+  height: 20px;
+}
+.exp_courses1 {
+  width: 90%;
+}
+.level_container_courses2 {
+  width: 100%;
+  background-color: rgb(158, 154, 154);
+  height: 20px;
+}
+.level_courses2 {
+  text-align: right;
+  height: 20px;
+}
+.exp_courses2 {
+  width: 10%;
+}
+.level_container_courses3 {
+  width: 100%;
+  background-color: rgb(158, 154, 154);
+  height: 20px;
+}
+.level_courses3 {
+  text-align: right;
+  height: 20px;
+}
+.exp_courses3 {
+  width: 50%;
+}
+.level_container_courses4 {
+  width: 100%;
+  background-color: rgb(158, 154, 154);
+  height: 20px;
+}
+.level_courses4 {
+  text-align: right;
+  height: 20px;
+}
+.exp_courses4 {
+  width: 70%;
+}
